@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>メニュー</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>MY SITE</h1>
+
+    <div class="menu">
+
+        <a href="game.html" class="menu-item">
+            <div class="icon">🎮️</div>
+            <h2>ゲーム</h2>
+            <p>ゲーム</p>
+        </a>
+
+        <a href="manga.html" class="menu-item">
+            <div class="icon">📖</div>
+            <h2>漫画</h2>
+            <p>漫画</p>
+        </a>
+
+        <a href="video.html" class="menu-item">
+            <div class="icon">📺️</div>
+            <h2>動画</h2>
+            <p>動画</p>
+        </a>
+
+        <a href="youtube.html" class="menu-item">
+            <div class="icon"></div>
+            <h2>ユーチューブ</h2>
+            <p>ユーチューブ</p>
+        </a>
+
+    </div>
+
+</body>
+</html>
