@@ -32,7 +32,7 @@
         </a>
 
         <a href="youtube.html" class="menu-item">
-            <div class="icon"></div>
+            <div class="icon">▶️</div>
             <h2>ユーチューブ</h2>
             <p>ユーチューブ</p>
         </a>
@@ -141,4 +141,13 @@
 
 
 
+<a href="game.html">
+    🎮️ ゲーム
+</a><a href="manga.html">
+    📖 漫画
+</a><a href="douga.html">
+    📺️ 動画
+</a><a href="youtube.html">
+    ▶️ ユーチューブ
+</a>
 
