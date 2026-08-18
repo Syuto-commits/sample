@@ -39,5 +39,106 @@
 
     </div>
 
+
+
+
+
+
+
+
+
+
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <title>ゲーム</title>
+</head>
+
+<body>
+
+    <h1>ゲームのページ</h1>
+
+    <p>やりたいゲームやって</p>
+
+    <a href="index.html">← メニューに戻る</a>
+
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <title>漫画</title>
+</head>
+
+<body>
+
+    <h1>まんがのページ</h1>
+
+    <p>好きな漫画見てね</p>
+
+    <a href="index.html">← メニューに戻る</a>
+
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <title>動画</title>
+</head>
+
+<body>
+
+    <h1>動画のページ</h1>
+
+    <p>いろんな動画あるで</p>
+
+    <a href="index.html">← メニューに戻る</a>
+
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <title>ユーチューブ</title>
+</head>
+
+<body>
+
+    <h1>ユーチューブのページ</h1>
+
+    <p>好きなものみて</p>
+
+    <a href="index.html">← メニューに戻る</a>
+
+</body>
+</html>
+
+
+
+
